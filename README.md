@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fwwtxs84hqx0j9nq/branch/main?svg=true)](https://ci.appveyor.com/project/manny1892/auto-2/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/rr58uxlohbgr6158/branch/master?svg=true)](https://ci.appveyor.com/project/manny1892/auto2/branch/master)
